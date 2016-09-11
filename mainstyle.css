@@ -1,0 +1,154 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 Jun, 2016, 12:14:00 AM
+    Author     : swapnil
+*/
+div.body
+{
+    background-color: #dfe3ee;
+}
+div.main{
+    width: 400px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom:  5px;
+    padding: 5px;
+    background-color: #f7f7f7;
+   /* background-color:#acc7fc;*/ 
+    
+  /* border: 1px solid black;*/
+}
+div.main div{
+    float: left;
+}
+div.main1{
+    height: 48px;
+    width: 100%;
+    margin-bottom: 5px;
+    background-color: #f7f7f7;
+/*border: 1px solid black;*/
+}
+div.photo{
+    /*border: 1px solid black;*/
+    width:14%;
+    height: 100%;    
+    float: left;
+}
+div.name{
+    /*border: 1px solid black;*/
+    width: 84%;
+    height: 100%;
+    float: right;
+    padding-left: 3px;
+}
+div.name1{
+    /*border: 1px solid black;*/
+    width: 100%;
+    height: 48%;
+    float: right;
+    }
+    div.name2{
+   /*border: 1px solid black;*/
+    width: 100%;
+    height: fit-content;
+    float: right;
+    }
+    div.main2{
+    /*border: 1px solid black;*/
+    width: 100%;
+    height: auto;  
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-size: 15px;
+    }
+    div.main3{
+    /*border: 1px solid black;*/
+    width: 100%;
+   height: 350px;  
+      }
+      div.main4{
+     /*border: 1px solid black;*/
+    width: 100%;
+    height: 50px;
+    padding-top: 0px;
+    padding-left: 1.5px;
+    padding-right:auto;
+  
+      }
+      span.s1{
+     /*border: 1px solid black;*/
+      height: 100%;
+      width:auto;
+      margin-right: 4%;     
+            }
+      span.s2{
+     /*border: 1px solid black;*/
+      height: 100%;
+      width:auto;
+      margin-right: 4%;     
+            }      
+            span.s3{
+      /*border: 1px solid black;*/
+      height: 100%;
+      width:auto;
+      margin-right: 4%;     
+            }
+            
+            div.main5{
+           /*border: 1px solid black;*/
+            width: 100%;
+            height: 50px;
+            background-color: #f7f7f7;
+            }       
+           
+            div.comm{
+   border: 1px solid black;
+    width: 84%;
+    height:10px;
+    float: right;
+    padding-left: 3px;
+            }
+            
+            
+            input[type=text], select {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   box-sizing: border-box;
+}
+
+a.clss:link, a.clss:visited, a.clss:active{
+    text-decoration: none;
+    color: black;
+    
+}
+a.clss:hover{
+      text-decoration: none;
+    color: black;
+    font-size: 125%;
+}
+
+a.clss1:link, a.clss1:hover, a.clss1:visited{
+    text-decoration: none;
+    color: black;
+}
+a.clss1:active{
+     text-decoration: none;
+     color: red;
+}
+
+a.clss2:link, a.clss2:hover, a.clss2:visited{
+    text-decoration: none;
+    color: blue;
+}
+a.clss2:active{
+     text-decoration: none;
+     color: red;
+}
